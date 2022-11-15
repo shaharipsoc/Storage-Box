@@ -8,6 +8,8 @@ project please refer the professionals for the help
 # JLCPCB 3D Printing starts at $1 &Get $54 Coupons for new users
 # https://jlcpcb.com/3d-printing?from=shagivers
 
+![Screenshot (465)](https://user-images.githubusercontent.com/118260277/201982770-6813a7c6-b477-40ef-8458-62cd29d17ae1.png)
+
 instructions for printing this piece
 
 Flow, sometimes known as the extrusion multiplier, determines the rate at which filament is extruded. For example, with a 100% flow rating, your printer might use 10 cm of filament for a particular part feature, but if you change the flow to 90%, the same feature would only require 9 cm. In the end, adjusting flow affects how many steps the extruder’s motor turns per millimeter of material deposited.
