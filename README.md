@@ -19,5 +19,3 @@ Retraction is usually the first setting people think about when they see strings
 These settings should be adjusted when you see stringing, but be mindful that retraction isn’t the only solution to this problem and nozzle temperature also plays a role. You should change your retraction settings in small intervals and don’t make any significant increases until you’ve tried lowering the temperature. Too much retraction can cause nozzle jams, as the filament is more aggressively pushed in and out of the nozzle.
 
 Self-storage becomes transparent with its virtual visual catalogue from which single items can be ordered back. Tenants are usually charged a fine for pickup and delivery, as well as a monthly fee for the storage at self-storage facilities. As prices for the small storage bins range between $5 and $10 per unit, they are increasingly becoming a popular storage box
-
-Print Settings
