@@ -2,11 +2,12 @@
  
 this is a storage box where we can store things for future use
 
-if you have hard-time 3d printing stuff and other materials which i have provided in this
-project please refer the professionals for the help
+If you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, JLCPCB is one of the best company from shenzhen china they provide 3D printing, PCB manufacturing and PCBA services to people in need, they provide good quality products in 3d printing with the materials include
+SLA -- MJF --SLM -- FDM -- & SLS. easy order and fast shipping makes JLCPCB better companion among other manufactures try out JLCPCB 3D Printing servies
 
-# JLCPCB 3D Printing starts at $1 &Get $54 Coupons for new users
-# https://jlcpcb.com/3d-printing?from=shagivers
+JLCPCB 3D Printing starts at $1 &Get $54 Coupons for new users
+
+https://jlcpcb.com/3d-printing?from=shagivers
 
 ![11](https://user-images.githubusercontent.com/118260277/201983074-b2cafa36-8b66-45ad-ae6d-261a802a8a2a.jpg)
 
